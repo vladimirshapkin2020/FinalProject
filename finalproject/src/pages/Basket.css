@@ -1,0 +1,34 @@
+#removeMeal {
+    background-color: greenyellow;
+    margin-right: 90px;
+}
+
+#buttonBackToOrder {
+    width: 100px;
+    background-color: lightblue;
+    color: brown;
+}
+
+#continueToCustomer {
+    width: 100px;
+    background-color: green;
+    color: lightblue;
+}
+
+#basketbackground {
+    background-image: url("https://miznon.com/wp-content/uploads/2022/04/c2a9-angelo-kreuzberger_20151209miznon0620pe_1_s.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;  
+}
+
+.scroller {
+    width: 300px;
+    height: 600px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+    float: right;
+  }

@@ -1,0 +1,28 @@
+#Home {
+    background-image: url("https://miznon.com/wp-content/uploads/2022/04/c2a9-angelo-kreuzberger_20151209miznon0620pe_1_s.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#homeCardBottom {
+    margin-top: 100px;
+}
+
+
+
+#homeCardHeader {
+    color: darkblue;
+    background-color: lightblue;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+#homeCardBody {
+    background-color: darkblue;
+    color:lightblue;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+

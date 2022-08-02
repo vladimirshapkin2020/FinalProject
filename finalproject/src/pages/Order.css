@@ -1,0 +1,71 @@
+#menu {
+    font-family: 'Rubik Moonrocks', cursive;
+    
+}
+
+#Order {
+    background-color: lightblue;
+}
+
+#d-sm-flex {
+    color: red;
+}
+
+#finishOrder {
+    color: green;
+    background-color: lightgreen;
+}
+
+#priceSpan {
+    color: darkgreen;
+    padding-left: 10px;
+}
+
+#hoverColor :hover{
+    background-color: lightgreen;
+}
+
+
+#hoverFinish :hover{
+    background-color: darkgreen;
+    color: lightblue;
+}
+
+#addToBasket {
+    background-color: darkgreen;
+    color: lightblue;
+}
+
+#watchMeal {
+    margin-left: 50px;
+    background-color: yellow;
+    color: red;
+}
+
+#orderCard {
+    background-color: lightblue;
+}
+
+#orderCardHeader {
+    color: darkblue;
+    background-color: lightblue;
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+}
+
+#orderCardBody {
+    text-align: right;
+    font-family: 'Rubik', sans-serif;
+    
+}
+
+#vegen {
+    float: left;
+    width: 50px;
+    height: 100px;
+}
+
+#categoryimg {
+    width: 30px;
+    height: 40px;
+}

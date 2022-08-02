@@ -1,0 +1,18 @@
+#finaleaCard {
+    padding-left: 27%;
+}
+
+#finalea {
+    background-image: url("https://img.freepik.com/premium-vector/sliced-tomato-tomato-with-splashing-red-background_46857-747.jpg?w=2000");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#finito {
+    background-color: lightgreen;
+    color: blue;
+    margin-right: 25vh;
+}

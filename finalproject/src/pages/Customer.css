@@ -1,0 +1,42 @@
+#placeHolderBasket {
+    text-align: right;
+}
+
+#basketCard {
+    background-color: red;
+    margin-top: 20px;
+    border-radius: 15px;
+    border-color: darkgreen;
+    border-width: 5px;
+}
+
+#basketContinue {
+    background-color: green;
+    color: black;  
+}
+
+#backToOrder {
+    background-color: lightgoldenrodyellow;
+    width: 30px;
+    margin-left: 363px;
+    margin-top: 25px;
+    
+    
+}
+
+#basketFluid {
+    background-image: url("https://img.mako.co.il/2019/03/19/lars-blankers-564563-unsplash_i.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#basketCardHeader {
+    color: darkgreen;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 30px;
+    border: none;
+    background: none;
+}
